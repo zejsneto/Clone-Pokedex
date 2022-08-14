@@ -22,7 +22,7 @@ Link: [View Demo](https://zejsneto.github.io/Clone-Pokedex)<br>
 ## 📃 Credits to Manual do Dev
 
 [GitHub](https://github.com/manualdodev)<br>
-[YouTUbe Channel](https://github.com/manualdodev)<br>
+[YouTube Channel](https://github.com/manualdodev)<br>
 [Tutorial Video](https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev)<br>
 
 ---
