@@ -19,7 +19,7 @@ Link: [View Demo](https://zejsneto.github.io/Clone-Pokedex)<br>
 
 ---
 
-## 📃 Credits to Manual do Dev
+## 📃 Credits to @manualdodev
 
 ![GitHub](https://img.shields.io/badge/--05122A?style=flat&logo=github)&nbsp;
 [Repository](https://github.com/manualdodev)<br>
