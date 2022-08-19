@@ -21,6 +21,9 @@ Link: [View Demo](https://zejsneto.github.io/Clone-Pokedex)<br>
 
 ## 📃 Credits to Manual do Dev
 
-[GitHub](https://github.com/manualdodev)<br>
-[YouTube Channel](https://github.com/manualdodev)<br>
+![GitHub](https://img.shields.io/badge/--05122A?style=flat&logo=github)&nbsp;
+[Repository](https://github.com/manualdodev)<br>
+![YouTubeChannel](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
+[Channel](https://github.com/manualdodev)<br>
+![YouTubeVideo](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Tutorial Video](https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev)<br>
