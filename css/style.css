@@ -20,6 +20,11 @@ main {
   position: relative;
 }
 
+.text {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .pokedex {
   width: 100%;
   max-width: 425px;
