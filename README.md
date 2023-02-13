@@ -4,10 +4,14 @@
 
 A clone of the Pokedex, developed using HTML, CSS and JavaScript.
 
+Link: [View Demo](https://zejsneto.github.io/Clone-Pokedex)<br>
+
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo](https://zejsneto.github.io/Clone-Pokedex)<br>
+<p align="center">
+  <img width="70%" src="/repository-imgs/img01.png" />
+</p>
 
 ---
 
